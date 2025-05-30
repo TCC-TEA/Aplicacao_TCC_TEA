@@ -2,12 +2,9 @@
 Diretrizes de Contribuição
 ==========================
 
-Obrigado por contribuir com este projeto! Este documento orienta como colaborar de forma organizada e eficiente.
-
 Regras Gerais
 -------------
 
-- Seja respeitoso com todas as pessoas envolvidas.
 - Escreva código limpo, organizado e comentado sempre que necessário.
 - Antes de subir alterações, confirme se tudo está funcionando corretamente.
 
@@ -18,21 +15,30 @@ Como Contribuir
    ```bash
    git checkout -b tipo/nome-da-alteracao
    ```
+   Tipos de branch utilizadas no projeto:
+   - `develop`
+   - `main`
+   - `feature`
+   - `hotfix`
+   - `release`
+   - `docs`
+  
    Exemplos:
-   - `feat/tela-login`
-   - `fix/erro-formulario`
+
+   - `feature/tela-login`
+   - `hotfix/erro-formulario`
    - `docs/ajuste-readme`
 
-2. **Faça suas alterações localmente.**
+3. **Faça suas alterações localmente.**
 
-3. **Siga o padrão de commits abaixo** ao registrar mudanças.
+4. **Siga o padrão de commits abaixo** ao registrar mudanças.
 
-4. **Envie sua branch:**
+5. **Envie sua branch:**
    ```bash
    git push origin tipo/nome-da-alteracao
    ```
 
-5. **Crie um Pull Request** no GitHub com uma descrição clara do que foi feito.
+6. **Crie um Pull Request** no GitHub com uma descrição clara do que foi feito.
 
 Padrão de Commits
 ------------------
