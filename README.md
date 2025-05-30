@@ -1,6 +1,6 @@
 # GitHub para App de Apoio à Seletividade Alimentar no TEA
 
-Este repositório contém o código-fonte do aplicativo mobile desenvolvido como Trabalho de Conclusão de Curso (TCC) no curso de Engenharia de Software da Universidade de Brasília (UnB). O aplicativo tem como objetivo auxiliar cuidadores e profissionais no manejo da seletividade alimentar de pessoas com Transtorno do Espectro Autista (TEA), oferecendo sugestões de alimentos semelhantes com base em preferências sensoriais. Este trabalho foi desenvolvido por Gabriel Marques de Souza e Caio Mesquita Vieira, e possui como orientador o professor da Universidade de Brasília Ricardo Ajax Dias Kosloski.
+Este repositório contém o código-fonte do aplicativo mobile desenvolvido como Trabalho de Conclusão de Curso (TCC) no curso de Engenharia de Software da Universidade de Brasília (UnB). O aplicativo tem como objetivo auxiliar cuidadores e profissionais no manejo da seletividade alimentar de pessoas com Transtorno do Espectro Autista (TEA), oferecendo sugestões de alimentos semelhantes com base em preferências sensoriais. Este trabalho foi desenvolvido por Gabriel Marques de Souza e Caio Mesquita Vieira, possui como orientador o professor da Universidade de Brasília Ricardo Ajax Dias Kosloski e como coorientadora a professora Dra. Marília Miranda Forte Gomes.
 
 ## 📱 Tecnologias Utilizadas
 
