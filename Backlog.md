@@ -36,6 +36,69 @@ Este é o backlog do produto, contendo as histórias de usuário priorizadas pel
 
 ---
 
+
+## 🧱 Épicos do Produto
+
+Abaixo estão os épicos que agrupam as funcionalidades do sistema em blocos de valor. Cada épico reúne histórias de usuário e tarefas técnicas relacionadas a um mesmo objetivo macro.
+
+---
+
+### 🧱 Épico 1: Gestão de Usuários
+
+> Funcionalidades relacionadas ao cadastro, autenticação e diferenciação entre tipos de conta.
+
+- **US01** 🎯 Como usuário cuidador, quero criar uma conta para registrar dados dos supervisionados.  
+- **US02** 🎯 Como usuário guest, quero criar uma conta para apenas visualizar dados compartilhados.  
+- **US03** 🎯 Como qualquer usuário, quero fazer login e ver uma interface correspondente ao meu tipo de conta.  
+- **TK01** 🛠️ Implementar autenticação com controle de tipo de usuário (guest/cuidador).  
+
+---
+
+### 🧱 Épico 2: Cadastro e Gerenciamento de Supervisionados
+
+> Funcionalidades para cadastrar, visualizar e organizar informações dos supervisionados.
+
+- **US04** 🎯 Como cuidador, quero cadastrar múltiplos supervisionados para gerenciar individualmente cada um.  
+- **US05** 🎯 Como cuidador, quero ver os dados de cada supervisionado organizadamente para facilitar o acompanhamento.  
+- **US06** 🎯 Como cuidador, quero indicar o nível de suporte (1 a 3) de cada supervisionado para melhor caracterização.  
+- **TK02** 🛠️ Criar base de dados para armazenar supervisionados e seus dados associados.  
+
+---
+
+### 🧱 Épico 3: Avaliação de Seletividade Alimentar
+
+> Aplicação e processamento do questionário BAMBI para detectar seletividade alimentar.
+
+- **US07** 🎯 Como cuidador, quero preencher o questionário BAMBI para cada supervisionado a fim de avaliar seletividade.  
+- **US08** 🎯 Como sistema, desejo processar os dados do BAMBI e indicar o grau de seletividade alimentar.  
+- **TK03** 🛠️ Desenvolver componente de questionário BAMBI com processamento automático dos resultados.  
+
+---
+
+### 🧱 Épico 4: Avaliação de Frequência Alimentar e Sensibilidade
+
+> Registro de preferências alimentares e identificação de padrões sensoriais.
+
+- **US09** 🎯 Como cuidador, quero preencher o questionário de frequência alimentar para cada supervisionado.  
+- **US10** 🎯 Como cuidador, quero indicar os grupos sensoriais aceitos após o questionário de frequência alimentar.  
+- **TK04** 🛠️ Implementar questionário de frequência alimentar com integração ao banco de dados.  
+
+---
+
+### 🧱 Épico 5: Geração de Perfil e Relatórios Personalizados
+
+> Criação de perfis alimentares e sugestões de trocas com base nos dados coletados.
+
+- **US11** 🎯 Como sistema, desejo criar o perfil alimentar a partir dos dados alimentares e sensoriais.  
+- **US12** 🎯 Como cuidador, quero receber o perfil alimentar de cada supervisionado em forma de relatório.  
+- **US13** 🎯 Como sistema, desejo gerar um relatório de trocas alimentares com base no perfil e no grau de seletividade.  
+- **US14** 🎯 Como cuidador, quero visualizar o relatório de trocas com sugestões agrupadas por categoria alimentar.  
+- **TK05** 🛠️ Gerar PDF ou tela exportável com o relatório de trocas alimentares personalizado.  
+
+---
+
+
+
 ## 📌 Notas Adicionais
 
 - 🔁 Backlog revisado em **12/06/2025**
