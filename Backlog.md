@@ -15,7 +15,7 @@ Este é o backlog do produto, contendo as histórias de usuário priorizadas pel
 | ID   | Tipo     | Prioridade | Descrição                                                                                                     | Pontos | Status     |
 |------|----------|------------|---------------------------------------------------------------------------------------------------------------|--------|------------|
 | US01 | 🎯 História de usuário | Alta       | Como usuário cuidador, quero criar uma conta para registrar dados dos supervisionados.                        | 3      | A fazer    |
-| US02 | 🎯 História de usuário | Alta       | Como usuário guest, quero criar uma conta para apenas visualizar dados compartilhados.                       | 2      | A fazer    |
+| US02 | 🎯 História de usuário | Alta       | Como usuário Nutricionista, quero criar uma conta para apenas visualizar dados compartilhados.                       | 2      | A fazer    |
 | US03 | 🎯 História de usuário | Alta       | Como qualquer usuário, quero fazer login e ver uma interface correspondente ao meu tipo de conta.            | 3      | A fazer    |
 | US04 | 🎯 História de usuário | Alta       | Como cuidador, quero cadastrar múltiplos supervisionados para gerenciar individualmente cada um.             | 3      | A fazer    |
 | US05 | 🎯 História de usuário | Alta       | Como cuidador, quero ver os dados de cada supervisionado organizadamente para facilitar o acompanhamento.    | 2      | A fazer    |
